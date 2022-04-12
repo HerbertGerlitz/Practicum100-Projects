@@ -12,10 +12,10 @@ This repository contains folders of my completed projects from the Data Analyst 
 
 **Overview of Project Portfolio**
 
-- 01-credit_scoring (Data Preprocessing): <br> Analysis of Borrowers' Risk of Defaulting
-- 02-vehicle_pricing (Exploratory Data Analysis): <br> Research on Car Sales Ads: What Factors Impact The Price Most?
-- 03-telecom_prepaid_plans (Statistical Data Analysis): <br> Statistical Analysis of Prepaid Plans
-- 04-video_games (Expl. & Stat. Data Analysis): <br> Exploratory and Statistical Analysis on Video Games
+01-credit_scoring (Data Preprocessing): <br> Analysis of Borrowers' Risk of Defaulting <br> <br>
+02-vehicle_pricing (Exploratory Data Analysis): <br> Research on Car Sales Ads: What Factors Impact The Price Most? <br> <br>
+03-telecom_prepaid_plans (Statistical Data Analysis): <br> Statistical Analysis of Prepaid Plans <br> <br>
+04-video_games (Expl. & Stat. Data Analysis): <br> Exploratory and Statistical Analysis on Video Games
 - 05-taxi_drives (Data Collection and Storage + Data Analysis): <br> Passengers' Preferences for Taxi Drives in Chicago
 - 06-marketing_expenses (Business Analytics): <br> Optimizing Marketing Expenses at Yandex.Afisha
 - 07-online_store_AB_testing (Making Business Decisions Based on Data): <br> Prioritization of Hypotheses and AB Testing
