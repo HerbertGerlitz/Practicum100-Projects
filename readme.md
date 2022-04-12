@@ -7,7 +7,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 
 **Bootcamp Links**
 
-- https://www.practicum100.com/
+- https://www.practicum100.org/data-analysis
 - https://practicum.yandex.com/
 
 **Overview of Project Portfolio**
