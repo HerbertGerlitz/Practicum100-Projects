@@ -20,7 +20,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 7) Optimizing Marketing Expenses at Yandex.Afisha <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (06-marketing_expenses, Business Analytics)
 8) Prioritization of Hypotheses and AB Testing <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (07-online_store_AB_testing, Making Business Decisions Based on Data)
 9) Market Research on Restaurants in Los Angeles (Implement Idea of Robot-Run Cafes in LA?) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (08-robot_run_cafe, How To Tell A Story Using Data)
-10) Investigation of The Users' Behavior for A Company's App <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (09-test_of_new_fonts, Event Funnels and AB Testing)
+10) Investigation of The Users' Behavior for A Company's App <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (09-AB_test_of_new_fonts, Event Funnels and AB Testing)
 11) A Customer Retention Strategy for The Gym Chain 'Model Fitness' <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (10-gym_chain, Forecasts & Predictions)
 12) Book Market Analysis Using SQL <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (11-book_market, SQL)
 13) AB Test Results for Two Different Recommendation Systems <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (12-two_AB_tests_for_recommendation_systems, Event Funnels and AB Testing)
