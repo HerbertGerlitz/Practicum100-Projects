@@ -1,1 +1,3 @@
-
+# A Customer Retention Strategy for the Gym Chain 'Model Fitness'
+The gym chain 'Model Fitness' has digitized a number of its customer profiles and provided a CSV file containing data on churn for a given month and information on the month preceding it. The goal of this project is to analyze them and to come up with a customer retention strategy. <br>
+More precisely we will predict the churn for the upcoming month for customers, select the most outstanding groups of customers, give a description of their main features and analyze the factors that impact customer churn most. At the end of the project I develop recommendations on how to improve customer service and will suggest measures to cut churn.
