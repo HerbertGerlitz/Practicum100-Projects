@@ -14,7 +14,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 
 1) Analysis of Borrowers' Risk of Defaulting <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (01-credit_scoring, Data Preprocessing)
 3) Research on Car Sales Ads: What Factors Impact The Price Most? <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (02-vehicle_pricing, Exploratory Data Analysis)
-4) Statistical Analysis of Prepaid Plans <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (03-telecom_prepaid_plans, Statistical Data Analysis)
+4) Statistical Analysis of Prepaid Plans <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (03-prepaid_plans, Statistical Data Analysis)
 5) Exploratory and Statistical Analysis on Video Games <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (04-video_games, Expl. & Stat. Data Analysis)
 6) Passengers' Preferences for Taxi Drives in Chicago <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (05-taxi_drives, Data Collection and Storage + Data Analysis)
 7) Optimizing Marketing Expenses at Yandex.Afisha <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (06-marketing_expenses, Business Analytics)
