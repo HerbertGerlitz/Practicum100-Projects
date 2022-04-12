@@ -14,3 +14,4 @@ In this project we've received an analytical task from an international online s
 
 In the analysis we will see that we have data about two different A/B Tests ('Recommender System Test' and 'Interface EU Test') and we will do the analysis for both tests. We will also see that the specifications need to be questioned and checked out. <br> <br>
 The goal of this project is connected with the expected result above: Will we see significant better conversions at different steps of the event funnel?
+ 
