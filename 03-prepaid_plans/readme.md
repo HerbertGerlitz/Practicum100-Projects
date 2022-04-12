@@ -7,18 +7,18 @@ The goal is to analyse the clients' behavior and to determine which prepaid plan
 
 Surf:
 
-Monthly charge: 20 Dollars
-500 monthly minutes, 50 texts, and 15 GB of data
-After exceeding the package limits:
-1 minute: 3 cents
-1 text message: 3 cents
+Monthly charge: 20 Dollars <br>
+500 monthly minutes, 50 texts, and 15 GB of data <br>
+After exceeding the package limits: <br>
+1 minute: 3 cents <br>
+1 text message: 3 cents <br>
 1 GB of data: 10 Dollars
 
 Ultimate:
 
-Monthly charge: 70 Dollars
-3000 monthly minutes, 1000 text messages, and 30 GB of data
-After exceeding the package limits:
-1 minute: 1 cent
-1 text message: 1 cent
+Monthly charge: 70 Dollars <br>
+3000 monthly minutes, 1000 text messages, and 30 GB of data <br>
+After exceeding the package limits: <br>
+1 minute: 1 cent <br>
+1 text message: 1 cent <br>
 1 GB of data: 7 Dollars
