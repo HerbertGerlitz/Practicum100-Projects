@@ -12,7 +12,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 
 **Overview of Project Portfolio**
 
-1) Analysis of Borrowers' Risk of Defaulting <br> (01-credit_scoring, Data Preprocessing)
+1) Analysis of Borrowers' Risk of Defaulting <br>    (01-credit_scoring, Data Preprocessing)
 2) Research on Car Sales Ads: What Factors Impact The Price Most? <br> (02-vehicle_pricing, Exploratory Data Analysis)
 3) Statistical Analysis of Prepaid Plans <br> (03-telecom_prepaid_plans, Statistical Data Analysis)
 4) Exploratory and Statistical Analysis on Video Games <br> (04-video_games, Expl. & Stat. Data Analysis)
