@@ -19,7 +19,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 6) Passengers' Preferences for Taxi Drives in Chicago <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (05-taxi_drives, Data Collection and Storage + Data Analysis)
 7) Optimizing Marketing Expenses at Yandex.Afisha <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (06-marketing_expenses, Business Analytics)
 8) Prioritization of Hypotheses and AB Testing <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (07-online_store_AB_testing, Making Business Decisions Based on Data)
-9) Market Research on Restaurants in Los Angeles (Implement Idea of Robot-Run Cafes in LA?) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (08-robot_run_cafe, How To Tell A Story Using Data)
+9) Market Research on Restaurants in Los Angeles (Implement Idea of Robot-Run Cafes in LA?) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (08-robot_run_cafe, How To Tell A Story Using Data + Presentation)
 10) Investigation of The Users' Behavior for A Company's App <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (09-AB_test_of_new_fonts, Event Funnels and AB Testing)
 11) A Customer Retention Strategy for The Gym Chain 'Model Fitness' <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (10-gym_chain, Forecasts & Predictions)
 12) Book Market Analysis Using SQL <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (11-book_market, SQL)
