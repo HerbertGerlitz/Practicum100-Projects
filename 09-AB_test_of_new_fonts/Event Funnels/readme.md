@@ -1,1 +1,1 @@
-This folder contains the event funnels (with and without seperated by group) as well as the bar charts showing the frequencies of occurences and the numbers of users for every event as png pictures from the project.
+This folder contains the event funnels (with and without separation by group) as well as the bar charts showing the frequencies of occurences and the numbers of users for every event as png pictures from the project.
