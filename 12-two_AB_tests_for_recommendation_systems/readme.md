@@ -9,6 +9,8 @@ In this project we've received an analytical task from an international online s
 - Audience: 15% of the new users from the EU region <br>
 - Purpose of the test: testing changes related to the introduction of an improved recommendation system <br>
 - Expected result: within 14 days of signing up, users will show better conversion into product page views (the product_page event), instances of adding items to the shopping cart (product_cart), and purchases (purchase). At each stage of the funnel product_page → product_cart → purchase, there will be at least a 10% increase. <br>
-- Expected number of test participants: 6000 <br> <br>
+- Expected number of test participants: 6000
+
+
 In the analysis we will see that we have data about two different A/B Tests ('Recommender System Test' and 'Interface EU Test') and we will do the analysis for both tests. We will also see that the specifications need to be questioned and checked out. <br> <br>
 The goal of this project is connected with the expected result above: Will we see significant better conversions at different steps of the event funnel?
