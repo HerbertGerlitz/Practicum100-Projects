@@ -1,7 +1,7 @@
 # Practicum100-Projects
 
-Practicum100 by Yandex is an online bootcamp involving both course and project works. 
-This repository contains folders of my completed projects from the Data Analyst bootcamp:
+Practicum100 by Yandex is an online Data Analysis bootcamp involving both course and project works. 
+This repository contains folders of my completed projects from that bootcamp:
 - Portfolio of 12 industry-level projects.
 - Real-world data and business cases.
 
