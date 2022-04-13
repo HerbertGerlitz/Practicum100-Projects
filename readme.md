@@ -13,7 +13,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 **Overview of Project Portfolio**
 
 | Number  | Project Title | Repository Folder |
-| :--: |:------------ | :------------------ |
+| :--: |:------ | :----------- |
 | 1 | Analysis of Borrowers' Risk of Defaulting | 01-credit_scoring |
 | 2 | Research on Car Sales Ads: What Factors Impact The Price Most? | 02-vehicle_pricing |
 | 3 | Statistical Analysis of Prepaid Plans | 03-prepaid_plans |
