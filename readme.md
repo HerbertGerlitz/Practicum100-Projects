@@ -26,3 +26,9 @@ This repository contains folders of my completed projects from the Data Analyst 
 12) AB Test Results for Two Different Recommendation Systems <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (12-two_AB_tests_for_recommendation_systems, Event Funnels and AB Testing)
 13) E-Commerce Product Range Analysis <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (13-e_commerce_product_range, DA + Dashboard)
 14) YouTube Video Trends History Analysis <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (14-youtube_trends, Automation + Dashboard)
+
+| Number  | Project Title  | Syllabus Chapter | Repository Folder |
+| :---: |:---------------| :---------------: | :---------------: |
+| 1 | Analysis of Borrowers' Risk of Defaulting | Data Preprocessing | 01-credit_scoring |
+| 2 | Research on Car Sales Ads: What Factors Impact The Price Most? | Exploratory Data Analysis | 02-vehicle_pricing |
+| 3 | Statistical Analysis of Prepaid Plans | Statistical Data Analysis | 03-prepaid_plans |
