@@ -1,5 +1,5 @@
 # E-Commerce Product Range Analysis
-This repository folder contains the project written in Jupyter Notebook and a presentation of the results.
+This repository folder contains the project written in Jupyter Notebook and a presentation of the results. For displaying the total purchases per day and the individual purchase totals I created a dashboard that can be found with the following link: https://public.tableau.com/views/E-CommerceData_16447175646260/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link
 
 **Description of the data:** <br>
 The dataset contains the transaction history of an online store that sells household goods.
