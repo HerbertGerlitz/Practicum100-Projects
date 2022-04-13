@@ -1,4 +1,6 @@
 # E-Commerce Product Range Analysis
+This repository folder contains the project written in Jupyter Notebook and a presentation of the results.
+
 **Description of the data:** <br>
 The dataset contains the transaction history of an online store that sells household goods.
 The file contains the following columns:
