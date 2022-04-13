@@ -13,7 +13,7 @@ This repository contains folders of my completed projects from the Data Analyst 
 **Overview of Project Portfolio**
 
 | Number  | Project Title | Repository Folder |
-| :--: |:---------------| :---------------: |
+| :--: |:------------ | :------------------ |
 | 1 | Analysis of Borrowers' Risk of Defaulting | 01-credit_scoring |
 | 2 | Research on Car Sales Ads: What Factors Impact The Price Most? | 02-vehicle_pricing |
 | 3 | Statistical Analysis of Prepaid Plans | 03-prepaid_plans |
@@ -25,6 +25,6 @@ This repository contains folders of my completed projects from the Data Analyst 
 | 9 | Investigation of The Users' Behavior for A Company's App | 09-AB_test_of_new_fonts |
 | 10 | A Customer Retention Strategy for The Gym Chain 'Model Fitness' | 10-gym_chain |
 | 11 | Book Market Analysis Using SQL | 11-book_market |
-| 12 | AB Test Results for Two Different Recommendation Systems | 12-two_AB_tests_for_recommendation_systems |
+| 12 | A/B Test Results about the Recommender System Test and the Interface EU Test | 12-two_AB_tests_for_recommendation_systems |
 | 13 | E-Commerce Product Range Analysis | 13-e_commerce_product_range |
 | 14 | YouTube Video Trends History Analysis | 14-youtube_trends |
