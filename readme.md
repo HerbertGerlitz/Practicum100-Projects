@@ -1,7 +1,7 @@
 # Practicum100-Projects
 
 Practicum100 by Yandex is an online Data Analysis bootcamp involving both course and project works. <br>
-In Practicum100, I 14 completed projects using Python & SQL on real-life data sets; they can be viewed in this repository.
+In Practicum100, I completed 14 projects using Python & SQL on real-life data sets; they can be viewed in this repository.
 
 **Bootcamp Links**
 
