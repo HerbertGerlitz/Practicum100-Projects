@@ -23,6 +23,6 @@ In Practicum100, I completed 14 projects using Python & SQL on real-life data se
 | 9 | Investigation of The Users' Behavior for A Company's App | 09-AB_test_of_new_fonts | Integrated Project II | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly |
 | 10 | A Customer Retention Strategy for The Gym Chain 'Model Fitness' | 10-gym_chain | Forecasts and Predictions | Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn |
 | 11 | Book Market Analysis Using SQL | 11-book_market | Graduation Project I | Pandas, SQLAlchemy |
-| 12 | A/B Test Results about the Recommender System Test and the Interface EU Test | 12-two_AB_tests_for_recommendation_systems | Graduation Project II | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly |
+| 12 | A/B Test Results about the Recommender System Test and the Interface EU Test | 12-two_AB_tests_for_recommendation-systems | Graduation Project II | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly |
 | 13 | E-Commerce Product Range Analysis | 13-e_commerce_product_range | Graduation Project III | (Python, Tableau); Pandas, NumPy, SciPy, NLTK, Matplotlib, Seaborn, Plotly |
 | 14 | YouTube Video Trends History Analysis | 14-youtube_trends | Automation | (Python, Tableau); Pandas, SQLAlchemy |
