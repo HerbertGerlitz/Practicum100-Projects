@@ -12,7 +12,7 @@ In Practicum100, I completed 14 projects using Python & SQL on real-life data se
 
 | Number  | Project Title | Repository Folder | Chapter from Program | Main Libraries |
 | :--: |:--------------------- | :------- | :------ | :-------------- |
-| 1 | Analysis of Borrowers' Risk of Defaulting | 01-credit_scoring | Data Preprocessing | Pandas, NLTK |
+| 1 | Analysis of Borrowers' Risk of Defaulting | 01-credit_scoring | Data Preprocessing | *Pandas, NLTK* |
 | 2 | Research on Car Sales Ads: What Factors Impact The Price Most? | 02-vehicle_pricing | Exploratory Data Analysis | Pandas, Matplotlib |
 | 3 | Statistical Analysis of Prepaid Plans | 03-prepaid_plans | Statistical Data Analysis | Pandas, NumPy, SciPy, Matplotlib |
 | 4 | Exploratory and Statistical Analysis on Video Games | 04-video_games | Integrated Project I | Pandas, NumPy, SciPy, Matplotlib |
