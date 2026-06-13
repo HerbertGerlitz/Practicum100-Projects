@@ -1,4 +1,4 @@
-# Master School Institute of Technology (MSIT) Projects (Projects last updated: 2022/02)
+# Masterschool Projects (Projects last updated: 2022/02)
 
 Practicum100 by Masterschool (now named MSIT) is an online Data Analysis bootcamp involving both course and project works. <br>
 There I completed 14 projects using Python & SQL on real-life data sets; they can be viewed in this repository.
