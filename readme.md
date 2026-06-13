@@ -1,12 +1,11 @@
-# Practicum100-Projects
+# Master School Institute of Technology (MSIT) Projects
 
-Practicum100 by Masterschool is an online Data Analysis bootcamp involving both course and project works. <br>
-In Practicum100, I completed 14 projects using Python & SQL on real-life data sets; they can be viewed in this repository.
+Practicum100 by Masterschool (now named MSIT) is an online Data Analysis bootcamp involving both course and project works. <br>
+There I completed 14 projects using Python & SQL on real-life data sets; they can be viewed in this repository.
 
 **Bootcamp Links**
 
-- https://www.practicum100.org/data-analysis
-- https://practicum.yandex.com/
+- https://joinmsit.de/
 
 **Overview of Project Portfolio**
 
